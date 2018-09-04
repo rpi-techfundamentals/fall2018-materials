@@ -1,0 +1,7 @@
+ruamel.yaml
+kaggle
+fastparquet
+feather-format
+jupyter_contrib_nbextensions
+kaggle-cli
+git+https://github.com/grading/gradememaybe.git
