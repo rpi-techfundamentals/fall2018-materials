@@ -4,6 +4,7 @@ data/*
 *.ignore.*
 #Python
 .ipynb_checkpoints
+*checkpoint.ipynb
 */.ipynb_checkpoints/*
 *checkpoint.ipynb
 *config.yaml
@@ -70,3 +71,4 @@ coverage.xml
 .DS_Store
 drafts
 .ipynb_checkpoints/*
+02-intro-python/.ipynb_checkpoints/01-intro-python-overview-checkpoint.ipynb
