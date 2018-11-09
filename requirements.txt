@@ -2,9 +2,8 @@ ruamel.yaml
 fastparquet
 feather-format
 jupyter_contrib_nbextensions
-git+https://github.com/grading/gradememaybe.git
-requests[security]==2.12.4
-coverage==3.7.1
-nose==1.3.3
-pylint==1.2.1
+requests
+coverage
+nose
+pylint
 mock==1.0.1
